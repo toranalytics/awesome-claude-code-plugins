@@ -385,6 +385,8 @@ Install or disable them dynamically with the `/plugin` command — enabling you 
 - [Onepilot](https://onepilotapp.com) — iOS app to SSH into remote servers and run Claude Code from your phone
 
 ### Knowledge Management
+
+- [Off the Wall](https://github.com/toranalytics/off-the-wall) - Saves the corrections you give Claude Code and Codex and quotes them back before the agent answers. Local storage, no separate API key, pre-release.
 - [bedrock](./plugins/bedrock)
 
 ## External Marketplaces
